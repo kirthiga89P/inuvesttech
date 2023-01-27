@@ -1,0 +1,258 @@
+01272023 11:36:20 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:36:20 AM: INFO: *****************Verifying Login Page with valid details*************************************
+01272023 11:36:31 AM: INFO: *****************LoginTest with valid Details is Passed*************************************
+01272023 11:36:32 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:36:32 AM: INFO: *****************Verifying Login Page with invalid Password************************************
+01272023 11:36:39 AM: INFO: *****************LoginTest with Invalid Password Details is Passed*************************************
+01272023 11:36:39 AM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 11:36:41 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:36:41 AM: INFO: *****************Verifying Login Page with Invalid Email*************************************
+01272023 11:36:48 AM: INFO: *****************LoginTest with Invalid Email Details is Passed*************************************
+01272023 11:36:48 AM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 11:36:50 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:36:50 AM: INFO: *****************Verifying Login Page with Invalid Details*************************************
+01272023 11:36:59 AM: INFO: *****************LoginTest with Invalid login Details is Passed*************************************
+01272023 11:36:59 AM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 11:37:00 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:00 AM: INFO: *****************Verifying Login Page without confirm email*************************************
+01272023 11:37:08 AM: INFO: *****************Login Page without confirm email is Passed*************************************
+01272023 11:37:08 AM: INFO: *****************Login failed and Proper message displayed as per requirement*************************************
+01272023 11:37:09 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:09 AM: INFO: *****************Verifying Forgot password with Valid Emailid*********************
+01272023 11:37:17 AM: ERROR: *****************Forget Password with valid email not working as per expected*************************************
+01272023 11:37:17 AM: ERROR: *****************Message not displayed per requirement*************************************
+01272023 11:37:19 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:19 AM: INFO: *****************Verifying Forgot Password with Invalid Email*******************
+01272023 11:37:29 AM: INFO: *****************Forget Password with Invalid Email working as per expected*************************************
+01272023 11:37:29 AM: INFO: *****************Proper message displayed as per requirement*************************************
+01272023 11:37:30 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:30 AM: INFO: *****************Verifying Forgot Password without Entering Email**********
+01272023 11:37:38 AM: INFO: *****************Forget Password with No Email working as per expected*************************************
+01272023 11:37:38 AM: INFO: *****************Proper message displayed  as per requirement*************************************
+01272023 11:37:40 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:40 AM: INFO: *****************Verifying Login without Email*****************************
+01272023 11:37:49 AM: INFO: ****************Email mandatory test is Passed*************************************
+01272023 11:37:49 AM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:37:51 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:37:51 AM: INFO: *****************Verifying Login with Invalid Email Format****************
+01272023 11:38:06 AM: INFO: ****************Invalid Email format test is Passed*************************************
+01272023 11:38:06 AM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:38:08 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:38:08 AM: INFO: *****************Verifying Login without Password*************************************
+01272023 11:38:16 AM: INFO: ****************Password mandatory test is Passed*************************************
+01272023 11:38:16 AM: INFO: ****************Password Textbox was higlighted in red and cross icon is  displayed*************************************
+01272023 11:38:17 AM: INFO: ******************Test_001_LOGIN******************************************
+01272023 11:38:17 AM: INFO: *****************Verifying signup link*************************************
+01272023 11:38:25 AM: INFO: ***************** Signup link work as per expectd*************************************
+01272023 11:38:29 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:38:29 AM: INFO: *****************Verifying Signin Gmail account In Login Page*************************************
+01272023 11:38:42 AM: INFO: ****************Signin Gmail account Page opened successfully*************************************
+01272023 11:38:45 AM: INFO: ******************Test_001_Login******************************************
+01272023 11:38:45 AM: INFO: *****************Verifying Dont have a account? label in Login Page*************************************
+01272023 11:38:56 AM: INFO: ****************Dont have a account? label in Login Page test is Passed*************************************
+01272023 11:44:25 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:44:25 AM: INFO: *****************Verifying Signup Page with Mobile Number*********************
+01272023 11:44:32 AM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 11:44:32 AM: INFO: *****************SignUp Test with Mobile Number is Passed*************************************
+01272023 11:44:33 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:44:33 AM: INFO: *****************Verifying Signup Page without Mobile number*************************************
+01272023 11:44:40 AM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 11:44:40 AM: INFO: *****************SignUp Test with out Mobile Number is Passed*************************************
+01272023 11:44:41 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:44:41 AM: INFO: *****************Verifying Signup Page with existing mail id*************************************
+01272023 11:44:48 AM: INFO: *****************Signup Page with existing mail id scenario is Passed*************************************
+01272023 11:44:48 AM: INFO: *****************Signup Page Failed and Proper message displayed*************************************
+01272023 11:44:50 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:44:50 AM: INFO: *****************Verifying Resend Confirmation with Mobile Number*********************
+01272023 11:44:58 AM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 11:44:58 AM: INFO: *****************Resend Test with Mobile Number is Passed*************************************
+01272023 11:44:59 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:44:59 AM: INFO: *****************Verifying Resend Confirmation without Mobile Number*************************************
+01272023 11:45:07 AM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 11:45:07 AM: INFO: *****************Resend Test with out Mobile Number is Passed*************************************
+01272023 11:45:08 AM: INFO: ******************Test_001_Signup******************************************
+01272023 11:45:08 AM: INFO: *****************Verifying Invalid Email format*************************************
+01272023 11:45:17 AM: INFO: ****************Invalid Email format test is Passed*************************************
+01272023 11:45:17 AM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:45:19 AM: INFO: ******************Test_001_SignUP******************************************
+01272023 11:45:19 AM: INFO: *****************Verifying First Name mandatory test*************************************
+01272023 11:45:28 AM: INFO: ****************First Name mandatory test is Passed*************************************
+01272023 11:45:28 AM: INFO: ****************First Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:45:30 AM: INFO: ******************Test_001_Signup******************************************
+01272023 11:45:30 AM: INFO: *****************Verifying Last Name Mandatory*************************************
+01272023 11:45:39 AM: INFO: ****************Last Name mandatory test is Passed*************************************
+01272023 11:45:39 AM: INFO: ****************Last Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:45:40 AM: INFO: ******************Test_001_SignUp******************************************
+01272023 11:45:40 AM: INFO: *****************Verifying Email Mandatory*************************************
+01272023 11:45:49 AM: INFO: ****************Email mandatory test is Passed*************************************
+01272023 11:45:49 AM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 11:45:51 AM: INFO: ******************Test_001_Signup******************************************
+01272023 11:45:51 AM: INFO: *****************Verifying Password Mandatory*************************************
+01272023 11:45:59 AM: INFO: ****************Password mandatory test is Passed*************************************
+01272023 11:45:59 AM: INFO: ****************Password Textbox was higlighted in red and cross icon is  displayed*************************************
+01272023 11:46:01 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:46:01 AM: INFO: *****************Verifying Terms and Conditions link*************************************
+01272023 11:46:08 AM: INFO: ***************** Terms and Conditions link work as per expectd*************************************
+01272023 11:46:12 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:46:12 AM: INFO: *****************Verifying login link*************************************
+01272023 11:46:18 AM: INFO: ***************** Login link work as per expectd*************************************
+01272023 11:46:19 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:46:19 AM: INFO: *****************Verifying By signing up, you agree to our label present *************************************
+01272023 11:46:26 AM: INFO: ***************** By signing up, you agree to our label present as per expected*************************************
+01272023 11:46:28 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:46:28 AM: INFO: *****************Verifying Already have a account? label present *************************************
+01272023 11:46:34 AM: INFO: ***************** Already have a account? label present as per expected*************************************
+01272023 11:59:18 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:59:18 AM: INFO: *****************Verifying Signup Page with Mobile Number*********************
+01272023 11:59:28 AM: ERROR: *****************SignUp Test with Mobile Number is Failed*************************************
+01272023 11:59:28 AM: ERROR: *****************Message not displayed per requirement*************************************
+01272023 11:59:32 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:59:32 AM: INFO: *****************Verifying Signup Page without Mobile number*************************************
+01272023 11:59:40 AM: ERROR: *****************SignUp Test with out Mobile Number is Failed*************************************
+01272023 11:59:40 AM: ERROR: *****************Message not displayed per requirement*************************************
+01272023 11:59:44 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:59:44 AM: INFO: *****************Verifying Signup Page with existing mail id*************************************
+01272023 11:59:51 AM: INFO: *****************Signup Page with existing mail id scenario is Passed*************************************
+01272023 11:59:51 AM: INFO: *****************Signup Page Failed and Proper message displayed*************************************
+01272023 11:59:54 AM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 11:59:54 AM: INFO: *****************Verifying Resend Confirmation with Mobile Number*********************
+01272023 12:00:01 PM: ERROR: *****************Resend Test with Mobile Number is Failed*************************************
+01272023 12:00:05 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:00:05 PM: INFO: *****************Verifying Resend Confirmation without Mobile Number*************************************
+01272023 12:00:12 PM: ERROR: *****************Resend Test with out Mobile Number is Failed*************************************
+01272023 12:00:16 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:00:16 PM: INFO: *****************Verifying Invalid Email format*************************************
+01272023 12:00:25 PM: INFO: ****************Invalid Email format test is Passed*************************************
+01272023 12:00:25 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:00:28 PM: INFO: ******************Test_001_SignUP******************************************
+01272023 12:00:28 PM: INFO: *****************Verifying First Name mandatory test*************************************
+01272023 12:00:37 PM: INFO: ****************First Name mandatory test is Passed*************************************
+01272023 12:00:37 PM: INFO: ****************First Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:00:40 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:00:40 PM: INFO: *****************Verifying Last Name Mandatory*************************************
+01272023 12:00:49 PM: INFO: ****************Last Name mandatory test is Passed*************************************
+01272023 12:00:49 PM: INFO: ****************Last Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:00:53 PM: INFO: ******************Test_001_SignUp******************************************
+01272023 12:00:53 PM: INFO: *****************Verifying Email Mandatory*************************************
+01272023 12:01:01 PM: INFO: ****************Email mandatory test is Passed*************************************
+01272023 12:01:01 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:01:05 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:01:05 PM: INFO: *****************Verifying Password Mandatory*************************************
+01272023 12:01:15 PM: INFO: ****************Password mandatory test is Passed*************************************
+01272023 12:01:15 PM: INFO: ****************Password Textbox was higlighted in red and cross icon is  displayed*************************************
+01272023 12:01:18 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:01:18 PM: INFO: *****************Verifying Terms and Conditions link*************************************
+01272023 12:01:26 PM: INFO: ***************** Terms and Conditions link work as per expectd*************************************
+01272023 12:01:31 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:01:31 PM: INFO: *****************Verifying login link*************************************
+01272023 12:01:37 PM: INFO: ***************** Login link work as per expectd*************************************
+01272023 12:01:40 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:01:40 PM: INFO: *****************Verifying By signing up, you agree to our label present *************************************
+01272023 12:01:46 PM: INFO: ***************** By signing up, you agree to our label present as per expected*************************************
+01272023 12:01:50 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:01:50 PM: INFO: *****************Verifying Already have a account? label present *************************************
+01272023 12:01:56 PM: INFO: ***************** Already have a account? label present as per expected*************************************
+01272023 12:06:05 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:06:05 PM: INFO: *****************Verifying Signup Page with Mobile Number*********************
+01272023 12:06:13 PM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 12:06:13 PM: INFO: *****************SignUp Test with Mobile Number is Passed*************************************
+01272023 12:06:16 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:06:16 PM: INFO: *****************Verifying Signup Page without Mobile number*************************************
+01272023 12:06:24 PM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 12:06:24 PM: INFO: *****************SignUp Test with out Mobile Number is Passed*************************************
+01272023 12:06:27 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:06:27 PM: INFO: *****************Verifying Signup Page with existing mail id*************************************
+01272023 12:06:34 PM: INFO: *****************Signup Page with existing mail id scenario is Passed*************************************
+01272023 12:06:34 PM: INFO: *****************Signup Page Failed and Proper message displayed*************************************
+01272023 12:06:37 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:06:37 PM: INFO: *****************Verifying Resend Confirmation with Mobile Number*********************
+01272023 12:06:45 PM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 12:06:45 PM: INFO: *****************Resend Test with Mobile Number is Passed*************************************
+01272023 12:06:48 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:06:48 PM: INFO: *****************Verifying Resend Confirmation without Mobile Number*************************************
+01272023 12:06:56 PM: INFO: *****************Proper message displayed and email sent as per requirement*************************************
+01272023 12:06:56 PM: INFO: *****************Resend Test with out Mobile Number is Passed*************************************
+01272023 12:06:59 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:06:59 PM: INFO: *****************Verifying Invalid Email format*************************************
+01272023 12:07:08 PM: INFO: ****************Invalid Email format test is Passed*************************************
+01272023 12:07:08 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:07:11 PM: INFO: ******************Test_001_SignUP******************************************
+01272023 12:07:11 PM: INFO: *****************Verifying First Name mandatory test*************************************
+01272023 12:07:20 PM: INFO: ****************First Name mandatory test is Passed*************************************
+01272023 12:07:20 PM: INFO: ****************First Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:07:23 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:07:23 PM: INFO: *****************Verifying Last Name Mandatory*************************************
+01272023 12:07:32 PM: INFO: ****************Last Name mandatory test is Passed*************************************
+01272023 12:07:32 PM: INFO: ****************Last Name Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:07:35 PM: INFO: ******************Test_001_SignUp******************************************
+01272023 12:07:35 PM: INFO: *****************Verifying Email Mandatory*************************************
+01272023 12:07:44 PM: INFO: ****************Email mandatory test is Passed*************************************
+01272023 12:07:44 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:07:47 PM: INFO: ******************Test_001_Signup******************************************
+01272023 12:07:47 PM: INFO: *****************Verifying Password Mandatory*************************************
+01272023 12:07:55 PM: INFO: ****************Password mandatory test is Passed*************************************
+01272023 12:07:55 PM: INFO: ****************Password Textbox was higlighted in red and cross icon is  displayed*************************************
+01272023 12:07:59 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:07:59 PM: INFO: *****************Verifying Terms and Conditions link*************************************
+01272023 12:08:06 PM: INFO: ***************** Terms and Conditions link work as per expectd*************************************
+01272023 12:08:11 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:08:11 PM: INFO: *****************Verifying login link*************************************
+01272023 12:08:17 PM: INFO: ***************** Login link work as per expectd*************************************
+01272023 12:08:20 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:08:20 PM: INFO: *****************Verifying By signing up, you agree to our label present *************************************
+01272023 12:08:26 PM: INFO: ***************** By signing up, you agree to our label present as per expected*************************************
+01272023 12:08:29 PM: INFO: ******************Test_001_SIGNUP******************************************
+01272023 12:08:29 PM: INFO: *****************Verifying Already have a account? label present *************************************
+01272023 12:08:35 PM: INFO: ***************** Already have a account? label present as per expected*************************************
+01272023 12:11:04 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:11:04 PM: INFO: *****************Verifying Login Page with valid details*************************************
+01272023 12:11:16 PM: INFO: *****************LoginTest with valid Details is Passed*************************************
+01272023 12:11:19 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:11:19 PM: INFO: *****************Verifying Login Page with invalid Password************************************
+01272023 12:11:31 PM: INFO: *****************LoginTest with Invalid Password Details is Passed*************************************
+01272023 12:11:31 PM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 12:11:34 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:11:34 PM: INFO: *****************Verifying Login Page with Invalid Email*************************************
+01272023 12:11:43 PM: INFO: *****************LoginTest with Invalid Email Details is Passed*************************************
+01272023 12:11:43 PM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 12:11:46 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:11:46 PM: INFO: *****************Verifying Login Page with Invalid Details*************************************
+01272023 12:11:57 PM: INFO: *****************LoginTest with Invalid login Details is Passed*************************************
+01272023 12:11:57 PM: INFO: *****************Login Failed and Proper message displayed*************************************
+01272023 12:12:00 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:12:00 PM: INFO: *****************Verifying Login Page without confirm email*************************************
+01272023 12:12:09 PM: INFO: *****************Login Page without confirm email is Passed*************************************
+01272023 12:12:09 PM: INFO: *****************Login failed and Proper message displayed as per requirement*************************************
+01272023 12:12:12 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:12:12 PM: INFO: *****************Verifying Forgot password with Valid Emailid*********************
+01272023 12:12:20 PM: ERROR: *****************Forget Password with valid email not working as per expected*************************************
+01272023 12:12:20 PM: ERROR: *****************Message not displayed per requirement*************************************
+01272023 12:12:23 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:12:23 PM: INFO: *****************Verifying Forgot Password with Invalid Email*******************
+01272023 12:12:34 PM: INFO: *****************Forget Password with Invalid Email working as per expected*************************************
+01272023 12:12:34 PM: INFO: *****************Proper message displayed as per requirement*************************************
+01272023 12:12:37 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:12:37 PM: INFO: *****************Verifying Forgot Password without Entering Email**********
+01272023 12:12:45 PM: INFO: *****************Forget Password with No Email working as per expected*************************************
+01272023 12:12:45 PM: INFO: *****************Proper message displayed  as per requirement*************************************
+01272023 12:12:48 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:12:48 PM: INFO: *****************Verifying Login without Email*****************************
+01272023 12:13:01 PM: INFO: ****************Email mandatory test is Passed*************************************
+01272023 12:13:01 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:13:04 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:13:04 PM: INFO: *****************Verifying Login with Invalid Email Format****************
+01272023 12:13:13 PM: INFO: ****************Invalid Email format test is Passed*************************************
+01272023 12:13:13 PM: INFO: ****************Email Textbox was higlighted in red and cross icon is displayed*************
+01272023 12:13:16 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:13:16 PM: INFO: *****************Verifying Login without Password*************************************
+01272023 12:13:35 PM: INFO: ****************Password mandatory test is Passed*************************************
+01272023 12:13:35 PM: INFO: ****************Password Textbox was higlighted in red and cross icon is  displayed*************************************
+01272023 12:13:38 PM: INFO: ******************Test_001_LOGIN******************************************
+01272023 12:13:38 PM: INFO: *****************Verifying signup link*************************************
+01272023 12:13:47 PM: INFO: ***************** Signup link work as per expectd*************************************
+01272023 12:13:53 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:13:53 PM: INFO: *****************Verifying Signin Gmail account In Login Page*************************************
+01272023 12:14:04 PM: INFO: ****************Signin Gmail account Page opened successfully*************************************
+01272023 12:14:10 PM: INFO: ******************Test_001_Login******************************************
+01272023 12:14:10 PM: INFO: *****************Verifying Dont have a account? label in Login Page*************************************
+01272023 12:14:16 PM: INFO: ****************Dont have a account? label in Login Page test is Passed*************************************
